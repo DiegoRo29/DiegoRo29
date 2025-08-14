@@ -5,7 +5,7 @@ Apasionado por **IA / Computer Vision**, **drones**, **análisis de datos** y **
 Me gusta construir sistemas prácticos: desde **detección de enfermedades en cultivos con YOLOv5** hasta **dashboards interactivos** y **APIs**.
 
 - 🚀 Intereses: CV/ML, MLOps ligero, Android, Data Analytics, Cloud.
-- 📫 Contacto: **<tuemail@dominio.com>**
+- 📫 Contacto: **<diegooliveracontactos@gmail.com>**
 - 📍 Colima, México
 
 ## 🌐 Connect with me
