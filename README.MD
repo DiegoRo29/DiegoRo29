@@ -5,7 +5,10 @@ A passionate intelligent computing engineering student from Mexico
 - 📫 How to reach me: **tuemail@example.com**
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario/)
+<a href="https://www.linkedin.com/in/tuusuario/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
 
 ## 🏆 Certifications:
 - [MATLAB Onramp](https://matlabacademy.mathworks.com/)
