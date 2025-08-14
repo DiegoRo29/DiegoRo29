@@ -5,7 +5,7 @@ A passionate intelligent computing engineering student from Mexico
 - 📫 How to reach me: **diegooliveracontactos@gmail.com**
 
 ## 🌐 Connect with me:
-<a href="www.linkedin.com/in/juan-diego-rocha-olivera" target="_blank">
+<a href="https://www.linkedin.com/in/juan-diego-rocha-olivera/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 
